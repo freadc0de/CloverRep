@@ -16,3 +16,5 @@ public interface ReputationDataSource {
 
     void saveData();
 }
+
+// .

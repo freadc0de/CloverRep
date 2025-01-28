@@ -101,3 +101,5 @@ public class ConfigManager {
         return config.getString("sounds.error", "ENTITY_VILLAGER_NO");
     }
 }
+
+// .

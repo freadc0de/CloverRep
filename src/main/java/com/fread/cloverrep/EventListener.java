@@ -20,3 +20,5 @@ public class EventListener implements Listener {
         plugin.getReputationManager().updatePlayerSuffix(player);
     }
 }
+
+// .

@@ -63,3 +63,5 @@ public class ReputationPlaceholder extends PlaceholderExpansion {
         return ColorUtil.applyColor(color + reputation);
     }
 }
+
+// .

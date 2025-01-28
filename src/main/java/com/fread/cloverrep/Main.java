@@ -52,3 +52,5 @@ public class Main extends JavaPlugin {
         return reputationManager;
     }
 }
+
+// .

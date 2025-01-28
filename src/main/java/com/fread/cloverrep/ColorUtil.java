@@ -29,3 +29,5 @@ public class ColorUtil {
         return ChatColor.translateAlternateColorCodes('&', buffer.toString());
     }
 }
+
+// .

@@ -145,3 +145,5 @@ public class MySQLReputationStorage implements ReputationDataSource {
         // так как данные пишутся сразу. Оставим метод пустым.
     }
 }
+
+// .
