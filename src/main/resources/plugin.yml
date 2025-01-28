@@ -1,0 +1,16 @@
+name: CloverRep
+main: com.fread.cloverrep.Main
+version: 1.0
+api-version: 1.16
+author: fread
+description: Плагин для управления репутацией игроков.
+
+commands:
+  rep:
+    description: Изменить репутацию игрока.
+    usage: "/rep + <ник> или /rep - <ник>"
+
+permissions:
+  cloverrep_bypass:
+    description: Позволяет обходить ограничения на выдачу репутации.
+    default: op

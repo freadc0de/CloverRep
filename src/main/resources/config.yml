@@ -1,0 +1,39 @@
+colors:
+  reputation-positive: "&#46ff62" # Цвет для положительной репутации (зелёный)
+  reputation-negative: "&#ff4646" # Цвет для отрицательной репутации (красный)
+  reputation-neutral: "&#898989"  # Цвет для нулевой репутации (серый)
+  dark-nick: "DARK_GRAY"          # Цвет ника для игроков с репутацией -20 и ниже
+
+messages:
+  self-vote-error:
+    - "&cВы не можете выдавать репутацию самому себе!"
+    - "&7Попробуйте оценить другого игрока."
+
+  already-voted:
+    - "&cВы уже оценили этого игрока!"
+    - "&7Вы можете поставить репутацию только один раз."
+
+  success:
+    - "&aВы успешно изменили репутацию игрока!"
+    - "&7Спасибо за ваш вклад в сообщество!"
+
+  error:
+    - "&cИгрок не найден!"
+    - "&7Убедитесь, что имя написано правильно."
+
+  usage:
+    - "&cИспользуйте: /rep + <ник> или /rep - <ник>"
+
+sounds:
+  error: "ENTITY_VILLAGER_NO" # Звук ошибки
+
+storage:
+  type: "local" # "local" или "mysql"
+
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "minecraft"
+  user: "root"
+  password: "password"
+  tablePrefix: "clover_"
