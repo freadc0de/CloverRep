@@ -1,5 +1,7 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.managers;
 
+import com.fread.cloverrep.utils.ColorUtil;
+import com.fread.cloverrep.Main;
 import org.bukkit.configuration.file.FileConfiguration;
 
 public class ConfigManager {

@@ -1,5 +1,6 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.commands;
 
+import com.fread.cloverrep.Main;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;

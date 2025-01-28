@@ -1,4 +1,4 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.utils;
 
 import net.md_5.bungee.api.ChatColor;
 

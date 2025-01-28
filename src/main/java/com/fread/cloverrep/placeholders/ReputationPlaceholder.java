@@ -1,5 +1,8 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.placeholders;
 
+import com.fread.cloverrep.Main;
+import com.fread.cloverrep.managers.ConfigManager;
+import com.fread.cloverrep.utils.ColorUtil;
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import org.bukkit.entity.Player;
 import org.jetbrains.annotations.NotNull;

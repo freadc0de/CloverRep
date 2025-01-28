@@ -1,5 +1,10 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.managers;
 
+import com.fread.cloverrep.*;
+import com.fread.cloverrep.storage.MySQLReputationStorage;
+import com.fread.cloverrep.storage.ReputationDataSource;
+import com.fread.cloverrep.storage.YamlReputationStorage;
+import com.fread.cloverrep.utils.ColorUtil;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.scoreboard.Scoreboard;

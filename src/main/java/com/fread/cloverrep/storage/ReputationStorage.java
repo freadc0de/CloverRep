@@ -1,5 +1,6 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.storage;
 
+import com.fread.cloverrep.Main;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
 

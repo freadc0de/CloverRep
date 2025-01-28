@@ -1,5 +1,11 @@
 package com.fread.cloverrep;
 
+import com.fread.cloverrep.commands.Commands;
+import com.fread.cloverrep.commands.RepTabCompleter;
+import com.fread.cloverrep.listeners.EventListener;
+import com.fread.cloverrep.managers.ConfigManager;
+import com.fread.cloverrep.managers.ReputationManager;
+import com.fread.cloverrep.placeholders.ReputationPlaceholder;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin {

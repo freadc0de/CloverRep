@@ -1,5 +1,8 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.commands;
 
+import com.fread.cloverrep.utils.ColorUtil;
+import com.fread.cloverrep.Main;
+import com.fread.cloverrep.utils.SoundUtil;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

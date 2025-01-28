@@ -1,4 +1,7 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.storage;
+
+import com.fread.cloverrep.Main;
+import com.fread.cloverrep.managers.ConfigManager;
 
 import java.sql.*;
 import java.util.HashSet;

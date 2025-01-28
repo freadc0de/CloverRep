@@ -1,4 +1,4 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.storage;
 
 import java.util.Set;
 

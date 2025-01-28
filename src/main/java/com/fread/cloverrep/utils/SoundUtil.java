@@ -1,5 +1,6 @@
-package com.fread.cloverrep;
+package com.fread.cloverrep.utils;
 
+import com.fread.cloverrep.Main;
 import org.bukkit.Sound;
 import org.bukkit.entity.Player;
 
